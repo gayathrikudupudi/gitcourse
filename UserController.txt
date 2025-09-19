@@ -1,2 +1,4 @@
 User is created.
 User is able to login.
+
+user is able to logout
