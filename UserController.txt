@@ -4,3 +4,5 @@ User is able to login.
 user is able to logout
 
 last login is able to displayed
+
+encryption and decryption of message implemented
